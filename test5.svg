@@ -6,4 +6,7 @@
    <script type="text/javascript">  
       alert(document.domain);
    </script>
+  <a href="http://mathiaskarlsson.me/headers.php">
+    <text x="10" y="30" fill="blue" text-decoration="underline">Click me</text>
+  </a>
 </svg>
